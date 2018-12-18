@@ -3,3 +3,4 @@ num=22
 num3=333
 num4=44
 num5= 5
+num6 = 6
